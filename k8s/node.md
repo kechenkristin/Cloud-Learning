@@ -14,6 +14,12 @@
 ### Core Concepts
 #### k8s architecture
 #### create and configure pods
+##### Pods
+##### Replicaset
+`kubectl create -f replicaset-definition.yml`  
+`kubectl get replicaset`  
+`kubectl replace -f replicaset-definition.yml`  
+`kubectl scale -replicas=6 -f replicaset-definition.yml`  
 
 ### Configuration
 #### Config Map
