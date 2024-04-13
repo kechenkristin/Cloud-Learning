@@ -8,7 +8,7 @@ https://www.exampro.co/terraform
 https://drive.google.com/drive/folders/1-ZOO8yYIlfAUvStEFUV31J02cC9Tjrn7  
 
 
-Additonally, if you know Chinese well, I'd like to recommend this series of videos:  
+Additionally, if you know Chinese well, I'd like to recommend this series of videos:  
 https://b23.tv/Rmhefnr  
 
 
