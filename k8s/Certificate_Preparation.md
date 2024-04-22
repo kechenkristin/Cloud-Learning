@@ -7,7 +7,7 @@
   https://killercoda.com/
   https://killercoda.com/playgrounds/course/kubernetes-playgrounds  
   
-- Note (Best note I've ever seen, but it's Chinese only)
+- Note (Best note I've ever seen, but it's Chinese only)  
 https://gitee.com/yooome/golang/blob/main/21-k8s%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/Kubernetes%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.md
 
 ### Practice for the exam
@@ -26,6 +26,6 @@ https://github.com/jamesbuckett
 - cheat sheet  
 https://kubernetes.io/docs/reference/kubectl/quick-reference/
 
-- personal ref (My hand-writing notes, private only)
+- personal ref (My hand-writing notes, private only)  
   https://drive.google.com/drive/folders/1kbo5qh0tvx-nNMPTLF_RZwIvSwwnZDR5?usp=drive_link
   
