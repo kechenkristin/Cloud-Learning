@@ -1,9 +1,9 @@
 ## General Advice
 ### Learn for the exam
-- Courses (CKA and CKAD are available on Udemy but CKS is only available in KodeKloud)
+- Courses (CKA and CKAD are available on Udemy but CKS is only available in KodeKloud)  
   https://kodekloud.com/  
   
-- Practice Environment (Pretty handy to use, and no need to set up a local environment anymore. And based on different exams, there are different setups. And it's FREE!)
+- Practice Environment (Pretty handy to use, and no need to set up a local environment anymore. And based on different exams, there are different setups. And it's FREE!)  
   https://killercoda.com/
   https://killercoda.com/playgrounds/course/kubernetes-playgrounds  
   
