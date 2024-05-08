@@ -8,14 +8,19 @@ https://dev.to/aws-builders/aws-iam-cli-a-cheatsheet-3g7o
 
 ## Certificates
 ### SAA
-- slides    
+- slides      
   https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9/
-- cheat sheet
+  
+- cheat sheet  
   https://codingnconcepts.com/aws/aws-certified-solutions-architect-associate/  
 
 
 ### DVA
 - slides  
-  https://courses.datacumulus.com/downloads/certified-developer-k92/  
-- cheat sheet  
+  https://courses.datacumulus.com/downloads/certified-developer-k92/
+  
+- cheat sheet   
   https://digitalcloud.training/category/aws-cheat-sheets/aws-developer-associate/aws-security-identity-compliance-dva/
+
+- blog
+  https://zhuanlan.zhihu.com/p/641755946?utm_psn=1771279702470082560
