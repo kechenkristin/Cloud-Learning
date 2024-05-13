@@ -25,8 +25,11 @@ https://dev.to/aws-builders/aws-iam-cli-a-cheatsheet-3g7o
 - blog  
   https://zhuanlan.zhihu.com/p/641755946?utm_psn=1771279702470082560
 
-- how to goolge?
-  examtopics dva-c02 question xxxx  
+- how to goolge?  
+  examtopics dva-c02 question xxxx
+
+- my spread sheets  
+  https://docs.google.com/spreadsheets/d/1San-yIxJ1Tu7WlFhpRMicjlJN-h_bIWxKJcycyfUt7U/edit?usp=drive_link
 
 
 ### SOA
