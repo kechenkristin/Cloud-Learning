@@ -22,5 +22,13 @@ https://dev.to/aws-builders/aws-iam-cli-a-cheatsheet-3g7o
 - cheat sheet   
   https://digitalcloud.training/category/aws-cheat-sheets/aws-developer-associate/aws-security-identity-compliance-dva/
 
-- blog
+- blog  
   https://zhuanlan.zhihu.com/p/641755946?utm_psn=1771279702470082560
+
+- how to goolge?
+  examtopics dva-c02 question xxxx  
+
+
+### SOA
+- slides  
+  https://courses.datacumulus.com/downloads/certified-sysops-administrator-dw1/
