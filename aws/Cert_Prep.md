@@ -37,4 +37,5 @@ https://dev.to/aws-builders/aws-iam-cli-a-cheatsheet-3g7o
   https://courses.datacumulus.com/downloads/certified-sysops-administrator-dw1/
 
 - how to google?  
-  examtopics AWS Certified SysOps Administrator SOA-C02 question xxxx
+  examtopics AWS Certified SysOps Administrator SOA-C02 question xxxx  
+  aws sysops <keyword> site:examtopics.com
