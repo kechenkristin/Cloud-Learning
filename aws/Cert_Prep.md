@@ -40,9 +40,12 @@ https://dev.to/aws-builders/aws-iam-cli-a-cheatsheet-3g7o
   examtopics AWS Certified SysOps Administrator SOA-C02 question xxxx  
   aws sysops <keyword> site:examtopics.com
 
-- my spread sheet
+- my spread sheet  
   https://docs.google.com/spreadsheets/d/1qfDzjztqP5KZFV1dcn_dDVz4yIBeDuHwHfh-a6ANbyY/edit#gid=0
 
 ### SCS
 - slides  
   https://courses.datacumulus.com/downloads/certified-security-specialty-76f4/
+
+- how to google?  
+examtopics scs-c02  site:examtopics.com
