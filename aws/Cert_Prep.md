@@ -49,3 +49,11 @@ https://dev.to/aws-builders/aws-iam-cli-a-cheatsheet-3g7o
 
 - how to google?  
 examtopics scs-c02  site:examtopics.com
+
+
+### DOP  
+- slides
+  https://courses.datacumulus.com/downloads/certified-devops-engineer-professional-h3e/
+
+- how to google?
+  examtopics dop-c02 question xxxx  
