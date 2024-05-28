@@ -52,8 +52,17 @@ examtopics scs-c02  site:examtopics.com
 
 
 ### DOP  
-- slides
+- slides  
   https://courses.datacumulus.com/downloads/certified-devops-engineer-professional-h3e/
 
 - how to google?
-  examtopics dop-c02 question xxxx  
+  examtopics dop-c02 question xxxx
+
+- spreat sheets  
+  https://docs.google.com/spreadsheets/d/18X43QjRPfQMDRf9McfEkXfsNgfQXdv4VnwtW2mYNlTE/edit#gid=0
+
+
+### DEA
+- slides  
+  https://www.sundog-education.com/aws-data-engineer/
+  
