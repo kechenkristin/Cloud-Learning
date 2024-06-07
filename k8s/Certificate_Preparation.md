@@ -26,6 +26,4 @@ https://github.com/jamesbuckett
 - cheat sheet  
 https://kubernetes.io/docs/reference/kubectl/quick-reference/
 
-- personal ref (My hand-writing notes, private only)  
-  https://drive.google.com/drive/folders/1kbo5qh0tvx-nNMPTLF_RZwIvSwwnZDR5?usp=drive_link
   
