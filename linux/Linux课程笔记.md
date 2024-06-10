@@ -1,5 +1,5 @@
 # Linux基础命令
-
+Good Blog to learn: https://zhuanlan.zhihu.com/p/36801617
 
 
 ## Linux的目录结构
